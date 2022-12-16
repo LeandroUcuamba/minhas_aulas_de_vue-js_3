@@ -1,0 +1,3 @@
+ver no arquivo:
+
+   - 'App.vue';

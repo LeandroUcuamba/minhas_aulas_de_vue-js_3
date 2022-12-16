@@ -1,0 +1,3 @@
+ver no arquivo: v-bind
+
+    - 'Info.vue' e no 'Picture.vue';

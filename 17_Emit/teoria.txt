@@ -1,0 +1,3 @@
+ver no arquivo:
+
+    - "MudarImagem" e no "Picture";
